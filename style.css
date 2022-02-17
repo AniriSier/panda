@@ -14,7 +14,7 @@ header h2{
     margin-top:1em;
     padding-top: 1em;
     text-shadow:0 0 8px #0055FF;
-    color:orange;
+    color:black;
 }    
 h1, h2, strong {
     color: #333;
@@ -27,7 +27,7 @@ section, footer {
     border-left: 2px solid #69c;
 }
 a {
-    color: #e81c4f;
+    color: #0055FF;
 }
 article {
     padding: 1em;
@@ -43,7 +43,7 @@ header {
     margin-bottom: 10%;
 }
 html {
-    background-image: url("panda.jpg");
+    background-image: url("panda.png");
     background-position: center top;
     background-repeat: no-repeat;
     background-size: 100% 30%;
